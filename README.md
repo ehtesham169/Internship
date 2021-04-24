@@ -1,2 +1,2 @@
 # Internship
-Webscraping which I did for an internship
+Code which I wrote during my internship at University of Engineering and Technology.
